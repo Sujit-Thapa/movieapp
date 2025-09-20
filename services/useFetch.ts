@@ -1,6 +1,3 @@
-//fetchmovies
-//fetchdetails
-
 import { useEffect, useState } from "react";
 
 export const useFetch = <T>(
